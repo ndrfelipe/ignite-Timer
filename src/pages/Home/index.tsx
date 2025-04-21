@@ -13,6 +13,7 @@ export function Home(){
                         <option value="DRF"></option>
                         <option value="PIF"></option>
                         <option value="React"></option>
+                        <option value="Linkedin"></option>
                     </datalist>
                     <label htmlFor="minutesAmount">durante</label>
                     <MinuteAmountInput 

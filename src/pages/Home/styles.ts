@@ -89,6 +89,7 @@ export const StartCountdownButton = styled.button`
     }
 `;
 
+// componente estilizado de base para estilizar outros componentes
 const BaseInput = styled.input`
     background: transparent;
     height: 2.5rem;
